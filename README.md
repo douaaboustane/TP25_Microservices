@@ -5,7 +5,8 @@
 
 ###  Containers Running Successfully
 ![Docker Running](tp26 1.png)
-## Docker Desktop – Running Containers
+## Docker Desktop – <img width="554" height="188" alt="tp26 1" src="https://github.com/user-attachments/assets/1e2114e3-fd9c-4db3-80e9-8171f1113fb0" />
+Running Containers
 
 The screenshot below shows the Docker Desktop interface with all containers
 successfully running for the **TP-25-Docker** microservices project.
