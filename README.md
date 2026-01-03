@@ -1,11 +1,11 @@
-## 🐳 Docker Compose – Execution
+## Docker Compose – Execution
 
-### 📥 Pulling Docker Images
+###  Pulling Docker Images
 ![Docker Pull](tp25.png)
 
-### 🚀 Containers Running Successfully
+###  Containers Running Successfully
 ![Docker Running](tp26 1.png)
-## 🖥️ Docker Desktop – Running Containers
+## Docker Desktop – Running Containers
 
 The screenshot below shows the Docker Desktop interface with all containers
 successfully running for the **TP-25-Docker** microservices project.
