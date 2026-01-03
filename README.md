@@ -4,7 +4,7 @@
 ![Docker Pull](tp25.png)
 
 ###  Containers Running Successfully
-![Docker Running](tp26 1.png)
+![Docker Running](tp261.png)
 ## Docker Desktop – Running Containers
 
 The screenshot below shows the Docker Desktop interface with all containers
